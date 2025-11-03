@@ -22,7 +22,7 @@
     </xs:annotation>
     <xs:annotation id="changes">
     </xs:annotation>
-	<xs:import namespace="http://www.purl.org/dc/elements/1.1/" schemaLocation="dc.xsd"/>
+	<xs:import namespace="http://www.purl.org/dc/elements/1.1/" schemaLocation="https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/dc.xsd"/>
 	<xs:element name="Description">
 		<xs:complexType>
 			<xs:sequence>
