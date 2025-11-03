@@ -3,7 +3,7 @@ name: Deploy S1000D Info Page to GitHub Pages
 on:
   push:
     branches:
-      - main  # Jalankan otomatis setiap kali ada push ke branch 'main'
+      - master  # Jalankan otomatis setiap kali ada push ke branch 'main'
 
 permissions:
   contents: read
