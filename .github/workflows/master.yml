@@ -3,7 +3,7 @@ name: Deploy S1000D Info Page to GitHub Pages
 on:
   push:
     branches:
-      - master
+      - master  # Jalankan otomatis setiap kali ada push ke branch 'main'
 
 permissions:
   contents: read
@@ -23,13 +23,11 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true  # <--- baris penting, auto aktifkan Pages bila belum ada
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .  # Folder tempat index.html kamu berada
+          path: .  # Folder yang berisi index.html kamu
 
       - name: Deploy to GitHub Pages
         id: deployment
