@@ -37,7 +37,7 @@
       </xs:documentation>
    </xs:annotation>
 
-   <xs:import namespace="http://ltsc.ieee.org/xsd/LOM"/>
+   <xs:import namespace="http://ltsc.ieee.org/xsd/LOM" schemaLocation="../../../S1000D_5-0/lom_schema/lom.xsd"/>
    <xs:import namespace="http://ltsc.ieee.org/xsd/LOM/custom"/>
   
    <!-- Vocabulary type declarations -->
