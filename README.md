@@ -24,43 +24,45 @@ The official schemas are available at:
 
 ## xml_schema_flat
 
+Visit this site to get flat schema https://ferdisap.github.io/schema/flat.html
+
 ### core schemas
 
-- [brdocXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/brdoc.xsd
-- [brexXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/brex.xsd
-- [checklistXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/checklist.xsd
-- [commentXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/comment.xsd
-- [comrepXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/comrep.xsd
-- [containerXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/container.xsd
-- [crewXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/crew.xsd
-- [ddnXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/ddn.xsd
-- [descriptXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/descript.xsd
-- [dmlXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/dml.xsd
-- [faultXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/fault.xsd
-- [frontmatterXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/frontmatter.xsd
-- [icnmetadataXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/icnmetadata.xsd
-- [ipdXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/ipd.xsd
-- [learningXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/learning.xsd
-- [pmXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/pm.xsdxsd
-- [procedXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/proced.xsd
-- [processXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/process.xsd
-- [rdfXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/rdf.xsd
-- [sbXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/sb.xsd
-- [schedulXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/schedul.xsd
-- [scocontentXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/scocontent.xsd
-- [scormcontentpackageXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/scormcontentpackage.xsd
-- [wrngdataXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/wrngdata.xsd
-- [wrngfldsXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/wrngflds.xsd
+- [brdocXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/brdoc.xsd - Business Rules definition.
+- [brexXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/brex.xsd - Business Rules Exchange schema.
+- [checklistXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/checklist.xsd - Checklist document.
+- [commentXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/comment.xsd - Commenting CSDB Object.
+- [comrepXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/comrep.xsd - Common repository document 
+- [containerXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/container.xsd 
+- [crewXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/crew.xsd - Crew/operator data module schema.
+- [ddnXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/ddn.xsd - Data Dispacth Note schema.
+- [descriptXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/descript.xsd - Descriptive data module schema.
+- [dmlXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/dml.xsd - Data Module List schema.
+- [faultXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/fault.xsd - Fault data module schema.
+- [frontmatterXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/frontmatter.xsd - Front matter data module schema.
+- [icnmetadataXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/icnmetadata.xsd  - Illustration Control Number schema.
+- [ipdXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/ipd.xsd - Illustrated Parts Data schema.
+- [learningXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/learning.xsd - Learning data module schema.
+- [pmXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/pm.xsdxsd> - Publication Module schema.
+- [procedXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/proced.xsd - Procedural data module schema.
+- [processXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/process.xsd - Process schema.
+- [rdfXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/rdf.xsd - RDF schema<
+- [sbXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/sb.xsd - Service Bulleting schema.
+- [schedulXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/schedul.xsd - Scheduling schema.
+- [scocontentXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/scocontent.xsd - SCORM content schema.
+- [scormcontentpackageXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/ scormcontentpackage.xs - SCROM content package schema.
+- [wrngdataXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/wrngdata.xsd - Wiring data schema.
+- [wrngfldsXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/wrngflds.xsd - Wiring fields schema.
 
 ### supporting and reference schemas
 
-- [appliccrossreftableXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/appliccrossreftable.xsd
-- [condcrossreftableXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/condcrossreftable.xsd
-- [dcXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/dc.xsd
-- [prdcrossreftableXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/prdcrossreftable.
-- [updateXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/update.xsd
-- [xcfXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/xcf.xsd
-- [xlinkXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/xlink.xsd
+- [appliccrossreftableXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/appliccrossreftable.xsd - Applicability product schema.
+- [condcrossreftableXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/condcrossreftable.xsd - Condition applicability product schema.
+- [prdcrossreftableXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/prdcrossreftable. - Certain product schema
+- [dcXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/dc.xsd - Dublic Core schema.
+- [updateXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/update.xsd - Informing the update CSDB object (manuals).
+- [xcfXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/xcf.xsd - Webcgm schema.
+- [xlinkXsd] https://ferdisap.github.io/schema/s1000d/S1000D_5-0/xml_schema_flat/xlink.xsd - Cross link schema.
 
 ---
 
