@@ -24,7 +24,7 @@ The official schemas are available at:
 
 ## xml_schema_flat
 
-Visit this site to get flat schema https://ferdisap.github.io/schema/flat.html
+Visit this site to get flat schema [github] https://ferdisap.github.io/schema/flat.html
 
 ### core schemas
 
